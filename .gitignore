@@ -1,0 +1,14 @@
+**/.terraform.lock.hcl
+**/.terraform/*
+*/*.tfstate
+*/*.tfstate.lock*
+**/*.tfstate.backup
+
+demo_2*/*.out
+demo_2*/*_out.json
+demo_2*/results.json
+
+demo_3*/tofu_1.7.0*
+demo_3*/tofu_1.7.0-alpha1_darwin_arm64/*
+
+**/.DS_Store

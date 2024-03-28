@@ -1,0 +1,3 @@
+package spacelift
+
+sample { true }
